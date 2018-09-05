@@ -1,0 +1,80 @@
+#footer{
+    width: 100%;
+    height: 455px;
+    position: relative;
+}
+.baozheng{
+    width: 100%;
+    height: 210px;
+    background: #f2f2f2;
+}
+.footer-1{
+    float: left;
+    width: 160px;
+    height: 40px;
+    margin-top: 75px;
+    margin-left: 100px;
+}
+.footer-1 img{
+    float: left;
+}
+.footer-1 h2{
+    font-size: 24px;
+    margin-left: 6px;
+}
+.footer-1 span{
+    float: left;
+    font-size: 12px;
+    /* display: inline-block; */
+    margin-top: -10px;
+}
+.f1{
+    margin-left: 375px;
+    
+}
+.footer-2{
+    position: relative;
+    text-align: center;
+}
+.lianjie{
+    text-align: center;
+    margin-left: 525px;
+    margin-top: 60px;
+}
+.lianjie>li{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    color: black;
+}
+.lianjie li a:link,.lianjie>li a:visited{
+    color: black;
+}
+.footer-about{
+    float: left;
+    margin-left: 840px;
+    margin-top: 10px;
+}
+.footer-about>li{
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+    
+}
+.footer-about>li a:link,.footer-about>li a:visited{
+    color: #eeeeee;
+}
+.footer-2 p{
+    float: left;
+    margin-left: 700px;
+    color: #eeeeee;
+    font-size: 12px;
+}
+.footer-3{
+    float: left;
+    margin-left: 700px;
+    margin-top: 25px;
+}
+.footer-3 img{
+    margin-left: 30px;
+}

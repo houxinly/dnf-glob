@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  width: 100%;
+  position: relative;
+}
+.App-header {
+  background-color: #ffffff;
+  height: 83px;
+  padding: 20px;
+  color: white;
+}
+.login{
+  font-size: 16px;
+  color: aqua;
+  margin-left: 53%;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.logo{
+  position: relative;
+  width: 60px;
+  height: 55px;
+  margin-left: 28px;
+}
+.logo-title{
+  position: relative;
+  color: black;
+  font-size: 26px;
+  font-weight: bold;
+  top: 6px;
+}

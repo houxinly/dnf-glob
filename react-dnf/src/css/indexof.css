@@ -1,0 +1,96 @@
+.shangping{
+    position: relative;
+    width: 100%;
+    background: #f2f2f2;
+    height: 520px;
+}
+.shangping-xiangqing{
+    position: relative;
+    background: #ffffff;
+    margin-left: 18%;
+    width: 1200px;
+    height: 420px;
+    top: 30px;
+}
+.changping-zhutu{
+    float: left;
+    margin-left: 20px;
+    /* display: inline-block; */
+    margin-top: 15px;
+    /* width: 1200px; */
+    /* overflow: hidden; */
+}
+.shangping-right{
+    /* position: fixed; */
+    /* left: 960px;
+    top: 120px; */
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.shangping-right .span-1{
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    background: #fdf0ea;
+    color: #ff5436;
+    text-align: center;
+    font-size: 12px;
+    line-height: 20px;
+    border: 1px solid #ff5436;
+    margin-left: 10px;
+}
+.price{
+    width: 555px;
+    height: 88px;
+    background: #eeeeee;
+    margin-top: 20px;
+}
+.daqu{
+    width: 555px;
+    height: 150px;
+    margin-top: 20px;
+}
+.golb {
+    margin-top: 20px;
+    
+}
+.golb-1{
+    width: 100px;
+    height: 30px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.golb-0{
+    margin-left: -180px;
+}
+.liji{
+    width: 260px;
+    height: 50px;
+    background: red;
+    color:#ffffff;
+    margin-left: 30px;
+    margin-top: 20px;
+    border: none;
+}
+.liucheng{
+    position: relative;
+}
+.liucheng-1{
+    font-weight: bold;
+    border-left: 4px solid #ffd200;
+    margin-left: 370px;
+    font-size: 24px;
+    margin-top: 160px;
+}
+.liucheng-2{
+    margin-left: 370px;
+}
+.wenti{
+    font-weight: bold;
+    /* border-left: 4px solid #ffd200; */
+    margin-left: 370px;
+    font-size: 24px;
+    margin-top: 30px;
+}

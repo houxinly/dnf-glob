@@ -1,0 +1,60 @@
+.payment{
+    position: relative;
+    width: 100%;
+    height: 1000px;
+}
+.payment-1{
+    margin-left: 575px;
+    margin-top: 80px;
+}
+.payment-2{
+    position: relative;
+    font-size: 24px;
+    color: #66cc00;
+    font-weight: bold;
+    top: 26px;
+    margin-left: 35px;
+    letter-spacing: 12px;
+}
+.payment-3{
+    position: relative;
+    margin-left: 720px;
+    top: -30px;
+}
+.payment_1{
+    font-size: 14px;
+    color: #f2f2f2;
+}
+.payment-4{
+    position: relative;
+    margin-left: 720px;
+}
+.payment-4 button{
+    width: 167px;
+    height: 45px;
+    background: red;
+    border: none;
+    color: #ffffff;
+    margin-left: 10px;
+}
+.payment_4{
+    background: blue;
+}
+.payment-5{
+    position: relative;
+    margin-left: 386px;
+    top: 137px;
+}
+.payment-5 img{
+    position: relative;
+    margin-left: -100px;
+}
+.payment-5 span{
+    position: relative;
+    font-weight: bold;
+    border-left: 4px solid #ffd200;
+    /* margin-left: 370px; */
+    font-size: 24px;
+    top: -140px;
+    /* margin-top: 160px; */
+}
